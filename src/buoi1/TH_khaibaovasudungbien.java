@@ -1,3 +1,5 @@
+package buoi1;
+
 public class TH_khaibaovasudungbien {
     public static void main(String[] args) {
         int i = 10;

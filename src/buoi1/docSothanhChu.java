@@ -1,4 +1,4 @@
-package com.company;
+package buoi1;
 
 import java.util.Scanner;
 

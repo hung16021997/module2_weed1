@@ -1,3 +1,5 @@
+package buoi1;
+
 import java.util.Date;
 
 public class TH_hienthithoigianhethong {

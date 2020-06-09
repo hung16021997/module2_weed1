@@ -1,3 +1,5 @@
+package buoi1;
+
 import java.util.Scanner;
 
 public class BT_hienthiloichao {
